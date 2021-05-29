@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${AndreFerreira5}.${76485847})
 
 <!--
 **AndreFerreira5/AndreFerreira5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
