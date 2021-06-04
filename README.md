@@ -3,6 +3,10 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreFerreira5&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbanerjee26" />
+</a>
+
 <!--START_SECTION:waka-->
 ```text
 Python   1 hr 40 mins    █████████████████████████   100.00 % 
