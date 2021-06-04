@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreFerreira5" />
 </a>
 
-<img src="https://github.com/AndreFerreira5/AndreFerreira5/main/images/stat.svg" alt="Alternative Text"/>
+<!--<img src="https://github.com/AndreFerreira5/AndreFerreira5/main/images/stat.svg" alt="Alternative Text"/>-->
 
 <!--START_SECTION:waka-->
 ```text
