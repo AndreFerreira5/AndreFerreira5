@@ -3,4 +3,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreFerreira5&layout=compact&theme=dark)
 <br>
 <!--START_SECTION:waka-->
+
+```txt
+ObjectiveC   0 secs          ██████████████████▒░░░░░░   73.73 %
+C++          0 secs          ██████▓░░░░░░░░░░░░░░░░░░   26.27 %
+```
+
 <!--END_SECTION:waka-->
