@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              10 hrs 44 mins  ███████▓░░░░░░░░░░░░░░░░░   30.08 %
-Python            9 hrs 18 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.04 %
-JavaScript        6 hrs 10 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
-HTML              4 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
-Groovy            1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Python            9 hrs 23 mins   ████████▓░░░░░░░░░░░░░░░░   34.76 %
+Java              6 hrs 57 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.77 %
+JavaScript        5 hrs 13 mins   █████░░░░░░░░░░░░░░░░░░░░   19.35 %
+HTML              3 hrs 37 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
+Java Properties   29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
