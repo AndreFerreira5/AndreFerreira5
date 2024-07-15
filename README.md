@@ -5,8 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           6 mins          ████████████████▓░░░░░░░░   66.92 %
-GitIgnore file   3 mins          ████████▒░░░░░░░░░░░░░░░░   33.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
