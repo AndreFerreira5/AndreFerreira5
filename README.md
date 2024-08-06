@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Assembly         2 hrs 26 mins   █████████████████░░░░░░░░   68.53 %
-Bash             25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-Shell Script     20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-GitIgnore file   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-Markdown         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Assembly         28 mins         ██████████████████████░░░   88.39 %
+Bash             1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Shell Script     1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
