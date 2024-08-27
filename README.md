@@ -5,9 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python      28 mins         █████████████████████████   99.99 %
-Bash        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-.env file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
