@@ -5,7 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python           14 mins         █████████▒░░░░░░░░░░░░░░░   36.75 %
+GitIgnore file   14 mins         █████████░░░░░░░░░░░░░░░░   36.09 %
+CMake            6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
+textmate         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+Shell Script     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 ```
 
 <!--END_SECTION:waka-->
