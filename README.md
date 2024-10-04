@@ -5,9 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           5 mins          ███████████████████░░░░░░   76.44 %
-JavaScript       1 min           █████░░░░░░░░░░░░░░░░░░░░   20.56 %
-GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
