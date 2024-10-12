@@ -5,11 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++          0 secs          ████████████████████████░   96.44 %
-ObjectiveC   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-XML          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-CMake        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
