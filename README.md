@@ -5,7 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart          0 secs          ██████████████████████░░░   88.07 %
+YAML          0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+IDEA_MODULE   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
 ```
 
 <!--END_SECTION:waka-->
