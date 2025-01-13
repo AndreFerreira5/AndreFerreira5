@@ -5,7 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart             2 hrs 3 mins    ██████████████░░░░░░░░░░░   56.43 %
+Python           1 hr 2 mins     ███████░░░░░░░░░░░░░░░░░░   28.49 %
+YAML             11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+textmate         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+Java             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
