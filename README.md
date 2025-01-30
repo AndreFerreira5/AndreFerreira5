@@ -5,7 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java         10 mins         ████████████████████████▓   98.20 %
+Dart         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
