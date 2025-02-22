@@ -5,7 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Groovy       7 mins          █████████████▒░░░░░░░░░░░   53.34 %
+Dart         4 mins          █████████░░░░░░░░░░░░░░░░   35.38 %
+Gradle       1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+Java         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
