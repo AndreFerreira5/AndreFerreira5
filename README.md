@@ -5,7 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart              1 hr 36 mins    ██████████████████▒░░░░░░   73.61 %
+Gradle            12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
+GitIgnore file    7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+Groovy            4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Cocoa             3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
