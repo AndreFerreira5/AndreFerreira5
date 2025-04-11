@@ -5,11 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Groovy            20 mins         █████████████▒░░░░░░░░░░░   53.15 %
-YAML              10 mins         ███████░░░░░░░░░░░░░░░░░░   28.07 %
-GitIgnore file    4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
-Java Properties   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Gradle            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
