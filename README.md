@@ -1,1 +1,1 @@
-<img src="assets/on.jpg" height="600">
+<img src="assets/on.jpg" height="300">
